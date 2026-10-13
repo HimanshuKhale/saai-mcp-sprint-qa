@@ -1,0 +1,3 @@
+# Official Model Context Protocol Python SDK.
+# Lower-bounded so the sprint repository does not pin an obsolete patch release.
+mcp>=1.0.0
